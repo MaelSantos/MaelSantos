@@ -4,7 +4,7 @@
 ## 👩‍💻 Sobre eu
 
 - Minhas linguagens favoritas são [Dart](https://dart.dev/) e [Python](https://www.python.org/);
-- Meu framwork preferido é [Flutter](https://flutter.dev/);
+- Meu framework preferido é [Flutter](https://flutter.dev/);
 - Programo atualmente em [PHP](https://www.php.net/);
 - Comecei a programar em 2016;
 - Meus animes favoritos são [Fullmetal Alchemist: Brotherhood](https://www.netflix.com/br/title/70204981) e [Re:Zero](https://www.crunchyroll.com/pt-br/rezero-starting-life-in-another-world-);
@@ -17,30 +17,29 @@
 ## 🛠 Linguagens e Ferramentas
 ![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
-![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
-![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
-![PHP](https://img.icons8.com/color/40/000000/php.png)
-![Laravel](https://img.icons8.com/fluent/40/000000/laravel.png)
-![Python](https://img.icons8.com/color/40/000000/python.png)
-![Django](https://img.icons8.com/windows/40/000000/django.png)
-![Java](https://img.icons8.com/color/40/000000/java.png) 
-![Dart](https://img.icons8.com/color/40/000000/dart.png)
-![Flutter](https://img.icons8.com/color/40/000000/flutter.png)
-![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
-![MySQL](https://img.icons8.com/color/40/000000/mysql.png)
-![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)
-![Android Studio](https://img.icons8.com/fluent/40/000000/android.png)
-![Git](https://img.icons8.com/color/40/000000/git.png)
-![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
+[![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)](https://getbootstrap.com/)
+[![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)](https://www.javascript.com/)
+[![PHP](https://img.icons8.com/color/40/000000/php.png)](https://www.php.net/)
+[![Laravel](https://img.icons8.com/fluent/40/000000/laravel.png)](https://laravel.com/)
+[![Python](https://img.icons8.com/color/40/000000/python.png)](https://www.python.org/)
+[![Django](https://img.icons8.com/windows/40/000000/django.png)](https://www.djangoproject.com/)
+[![Java](https://img.icons8.com/color/40/000000/java.png)](https://www.java.com/)
+[![Dart](https://img.icons8.com/color/40/000000/dart.png)](https://dart.dev/)
+[![Flutter](https://img.icons8.com/color/40/000000/flutter.png)](https://flutter.dev/)
+[![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)](https://www.postgresql.org/)
+[![MySQL](https://img.icons8.com/color/40/000000/mysql.png)](https://www.mysql.com/)
+[![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+[![Android Studio](https://img.icons8.com/fluent/40/000000/android.png)](https://developer.android.com/studio)
+[![Git](https://img.icons8.com/color/40/000000/git.png)](https://git-scm.com/)
+[![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/)
 ![Terminal](https://img.icons8.com/color/40/000000/console.png)
 <!-- ![Semantic Ui](https://img.icons8.com/office/40/000000/semantic-ui.png) -->
 
-
-## 👩‍💻 O que estou estudando?
+## 📚 O que estou estudando?
 - [Desenvolvimento Web Avançado 2021 com PHP e Laravel](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel/)
 
-## Contatos
-[![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)]()
-[![Facebook](https://img.icons8.com/color/40/000000/facebook-new.png)]()
+## ✉️ Contatos
+[![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/mael_santos7/)
+[![Facebook](https://img.icons8.com/color/40/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100014350898752)
 [![Linkedin](https://img.icons8.com/color/40/000000/linkedin.png)](https://www.linkedin.com/in/abimael-jonas-738328124/)
-[![Gmail](https://img.icons8.com/color/40/000000/gmail-new.png)](maelsantos777@gmail.com)
+[![Gmail](https://img.icons8.com/color/40/000000/gmail-new.png)](mailto:maelsantos777@gmail.com)
