@@ -1,12 +1,12 @@
-# Olá, Sou Mael Santos
+# Olá, Eu Sou Mael Santos
 ### Discente do 9º Período do Curso de Bacharelado em Sistemas de Informação (BSI) - UAST/UFRPE
 
-## 👩‍💻 Sobre eu
+## 👩‍💻 Sobre mim
 
 - Minhas linguagens favoritas são [Dart](https://dart.dev/) e [Python](https://www.python.org/);
 - Meu framework preferido é [Flutter](https://flutter.dev/);
-- Programo atualmente em [PHP](https://www.php.net/);
 - Comecei a programar em 2016;
+- Programo atualmente em [PHP](https://www.php.net/);
 - Meus animes favoritos são [Fullmetal Alchemist: Brotherhood](https://www.netflix.com/br/title/70204981) e [Re:Zero](https://www.crunchyroll.com/pt-br/rezero-starting-life-in-another-world-);
 
 ## 📊 Estatísticas
