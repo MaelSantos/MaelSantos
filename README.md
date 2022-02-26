@@ -1,5 +1,5 @@
 # Olá, Eu Sou Mael Santos
-### Discente do 10º Período do Curso de Bacharelado em Sistemas de Informação (BSI) - UAST/UFRPE
+### Bacharel em Sistemas de Informação (BSI) - UAST/UFRPE
 
 ## 👩‍💻 Sobre mim
 
