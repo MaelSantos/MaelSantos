@@ -6,7 +6,7 @@
 - Minhas linguagens favoritas são [Dart](https://dart.dev/) e [Python](https://www.python.org/);
 - Meu framework preferido é [Flutter](https://flutter.dev/);
 - Comecei a programar em 2016;
-- Programo atualmente em [PHP](https://www.php.net/);
+- Programo em [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/), [Python](https://www.python.org/) e [Flutter](https://flutter.dev/);
 - Meus animes favoritos são [Fullmetal Alchemist: Brotherhood](https://www.netflix.com/br/title/70204981) e [Re:Zero](https://www.crunchyroll.com/pt-br/rezero-starting-life-in-another-world-);
 
 ## 📊 Estatísticas
