@@ -1,5 +1,6 @@
 # Olá, Eu Sou Mael Santos
-### Bacharel em Sistemas de Informação (BSI) - UAST/UFRPE
+### Bacharel em Sistemas de Informação - UAST/UFRPE
+### Mestrando em Ciência da Computação - CIN-UFPE
 
 ## 👩‍💻 Sobre mim
 
