@@ -36,8 +36,7 @@
 ![Terminal](https://img.icons8.com/color/40/000000/console.png)
 <!-- ![Semantic Ui](https://img.icons8.com/office/40/000000/semantic-ui.png) -->
 
-## 📚 O que estou estudando?
-- [Desenvolvimento Web Avançado 2021 com PHP e Laravel](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel/)
+<!-- ## 📚 O que estou estudando? -->
 
 ## ✉️ Contatos
 [![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/mael_santos7/)
